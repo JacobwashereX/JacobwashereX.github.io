@@ -1,0 +1,12 @@
+h1,
+h2,
+h3,
+p {
+text-align: center;
+}
+
+body {
+	margin-left: 6em;
+	margin-right: 6em;
+	background-color: pink;
+}
